@@ -1,3 +1,8 @@
+# BALONDO, JAYMART T.
+# ITELEC2
+# Laboratory #03 – Guided Coding Exercise:
+# Variables, Literals, and Case-Sensitivity in Python (with Naming Conventions)
+
 count = 10                  # 10 is an integer literal
 decimal_value = 3.14        # 3.14 is a float literal
 
